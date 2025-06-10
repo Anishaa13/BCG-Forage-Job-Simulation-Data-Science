@@ -46,7 +46,7 @@ jupyter notebook
 - **Python** – Core programming language  
 - **Pandas & NumPy** – Data manipulation and preprocessing  
 - **Matplotlib & Seaborn** – Data visualization  
-- **Scikit-learn** – Machine learning models (if applicable)  
+- **Scikit-learn** – Machine learning models 
 - **Jupyter Notebook** – Interactive analysis and reporting  
 
 ---
@@ -54,7 +54,7 @@ jupyter notebook
 ## 📈 Key Insights & Business Impact  
 📌 **Identified key drivers** of customer behavior and sales trends  
 📌 **Segmented customers** for targeted business strategies  
-📌 **Optimized decision-making** using predictive modeling (if applied)  
+📌 **Optimized decision-making** using predictive modeling  
 📌 **Developed data-driven recommendations** to support business growth  
 
 ---
